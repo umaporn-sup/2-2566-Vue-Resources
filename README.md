@@ -6,6 +6,10 @@ Free Images
 
 - https://unsplash.com/
 
+Free Emoji
+
+- https://emojipedia.org/
+
 Free Icons
 
 - https://fonts.google.com/icons
