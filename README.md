@@ -16,6 +16,10 @@ Free Icons
 - https://icones.netlify.app/
 - https://heroicons.com/
 
+Symbol and Unicode Characters
+
+- https://symbl.cc/en/
+
 Color Palettes
 
 - https://coolors.co/
