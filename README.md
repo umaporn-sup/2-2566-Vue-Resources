@@ -27,7 +27,7 @@ Color Palettes
 ## Weekly Content and Source Codes
 
 - (week#1) _`Introduction to Vue3 with Vite build tool`_
-  - [git repo]
+  - [git repo] https://github.com/umaporn-sup/counter-app.git
   - References
     - [Vue 3](https://v3.vuejs.org/)
     - [SFC Syntax Specification](https://vuejs.org/api/sfc-spec.html)
