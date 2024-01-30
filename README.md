@@ -27,7 +27,7 @@ Color Palettes
 ## Weekly Content and Source Codes
 
 - (week#1) _`Introduction to Vue3 with Vite build tool`_
-  - [git repo] https://github.com/umaporn-sup/counter-app.git
+  - [git repo](https://github.com/umaporn-sup/counter-app.git)
   - References
     - [Vue 3](https://v3.vuejs.org/)
     - [SFC Syntax Specification](https://vuejs.org/api/sfc-spec.html)
@@ -38,7 +38,7 @@ Color Palettes
     - [Daisyui](https://daisyui.com/)
 - (week#2) _`Vue Template Syntax`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/2-2566-groupwork-app.git)
   - References
     - [Vue Template Syntax](https://vuejs.org/guide/essentials/template-syntax.html)
     - [Conditional Rendering](https://vuejs.org/guide/essentials/conditional.html)
