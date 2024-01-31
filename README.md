@@ -46,7 +46,7 @@ Color Palettes
 
 - (week#3) _`Reactivity Variables, Computed Properties, and Form Input Bindings`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/2-2566-add-groupwork.git)
   - References
     - [Reactivity Fundamentals](https://vuejs.org/guide/essentials/reactivity-fundamentals.html)
     - [Computed Properties](https://vuejs.org/guide/essentials/computed.html)
