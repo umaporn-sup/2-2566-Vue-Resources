@@ -44,31 +44,33 @@ Color Palettes
     - [Conditional Rendering](https://vuejs.org/guide/essentials/conditional.html)
     - [List Rendering](https://vuejs.org/guide/essentials/list.html)
 
-- (week#3) _`Reactivity Variables, Computed Properties, and Form Input Bindings`_
+- (week#3) _`Reactivity Variables, Form Input Bindings, and Event Handling`_
 
   - [git repo](https://github.com/umaporn-sup/2-2566-add-groupwork.git)
   - References
     - [Reactivity Fundamentals](https://vuejs.org/guide/essentials/reactivity-fundamentals.html)
-    - [Computed Properties](https://vuejs.org/guide/essentials/computed.html)
     - [Form Input Bindings](https://vuejs.org/guide/essentials/forms.html)
+    - [Event Handling](https://vuejs.org/guide/essentials/event-handling.html)
 
-- (week#4) _`Event Handling and Class and Style Bindings`_
+- (week#4) _`Computed Properties and Watchers`_
+
+  - [git repo](https://github.com/umaporn-sup/paginate-search-sort-groupwork.git)
+  - References
+    - [Computed Properties](https://vuejs.org/guide/essentials/computed.html)
+    - [Watcher](https://vuejs.org/guide/essentials/watchers.html)
+
+- (week#5) _`Class and Style Bindings and Asset Handling`_
 
   - [git repo]
   - References
-    - [Event Handling](https://vuejs.org/guide/essentials/event-handling.html)
+    - [Asset Handling](https://vitejs.dev/guide/assets)
     - [Class and Style Bindings](https://vuejs.org/guide/essentials/class-and-style.html)
 
-- (week#5) _`Lifecycle Hooks`_
+- (week#6) _`Lifecycle Hooks and Basic Components`_
 
   - [git repo]
   - References
     - [Lifecycle Hooks](https://vuejs.org/guide/essentials/lifecycle.html#lifecycle-hooks)
-
-- (week#6) _`Basic Components`_
-
-  - [git repo]
-  - References
     - [Components Basics](https://vuejs.org/guide/essentials/component-basics.html)
     - [Component Registration](https://vuejs.org/guide/components/registration.html#component-registration)
     - [Props](https://vuejs.org/guide/components/props.html)
