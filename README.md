@@ -61,7 +61,7 @@ Color Palettes
 
 - (week#5) _`Class and Style Bindings and Asset Handling`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/user-preferences-groupwork.git)
   - References
     - [Asset Handling](https://vitejs.dev/guide/assets)
     - [Class and Style Bindings](https://vuejs.org/guide/essentials/class-and-style.html)
