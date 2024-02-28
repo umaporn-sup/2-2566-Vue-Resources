@@ -68,7 +68,7 @@ Color Palettes
 
 - (week#6) _`Lifecycle Hooks and Basic Components`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/life-cycle-project.git)
   - References
     - [Lifecycle Hooks](https://vuejs.org/guide/essentials/lifecycle.html#lifecycle-hooks)
     - [Components Basics](https://vuejs.org/guide/essentials/component-basics.html)
