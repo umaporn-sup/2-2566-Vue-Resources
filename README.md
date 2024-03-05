@@ -78,9 +78,11 @@ Color Palettes
 
 - (week#7) _`Components in Depth`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/todo-comp-slot.git)
   - References
     - [Slots](https://vuejs.org/guide/components/slots.html)
+    - [Render Scope](https://vuejs.org/guide/components/slots.html#render-scope)
+    - [Scoped Slots](https://vuejs.org/guide/components/slots.html#scoped-slots)
     - [Provide/Inject](https://vuejs.org/guide/components/provide-inject.html#provide-inject)
     - [Teleport](https://vuejs.org/guide/built-ins/teleport.html#teleport)
 
