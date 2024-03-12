@@ -73,20 +73,21 @@ Color Palettes
     - [Lifecycle Hooks](https://vuejs.org/guide/essentials/lifecycle.html#lifecycle-hooks)
     - [Components Basics](https://vuejs.org/guide/essentials/component-basics.html)
     - [Component Registration](https://vuejs.org/guide/components/registration.html#component-registration)
-    - [Props](https://vuejs.org/guide/components/props.html)
-    - [Component Events](https://vuejs.org/guide/components/events.html)
 
-- (week#7) _`Components in Depth`_
+- (week#7-8) _`Components in Depth`_
 
-  - [git repo](https://github.com/umaporn-sup/todo-comp-slot.git)
+  - [git repo (components, slots, scoped slots, and props)](https://github.com/umaporn-sup/todo-comp-slot.git)
+  - [git repo (emit and Teleport)](https://github.com/umaporn-sup/todo-emit-teleport.git)
   - References
+    - [Component Events](https://vuejs.org/guide/components/events.html)
     - [Slots](https://vuejs.org/guide/components/slots.html)
     - [Render Scope](https://vuejs.org/guide/components/slots.html#render-scope)
     - [Scoped Slots](https://vuejs.org/guide/components/slots.html#scoped-slots)
+    - [Props](https://vuejs.org/guide/components/props.html)
     - [Provide/Inject](https://vuejs.org/guide/components/provide-inject.html#provide-inject)
     - [Teleport](https://vuejs.org/guide/built-ins/teleport.html#teleport)
 
-- (week#8) _`Fetch API`_
+- (week#9) _`Fetch API`_
 
   - [git repo]
   - References
