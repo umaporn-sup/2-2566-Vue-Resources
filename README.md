@@ -87,18 +87,14 @@ Color Palettes
     - [Provide/Inject](https://vuejs.org/guide/components/provide-inject.html#provide-inject)
     - [Teleport](https://vuejs.org/guide/built-ins/teleport.html#teleport)
 
-- (week#9) _`Fetch API`_
+- (week#9) _`Fetch API and Vue Router`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/todo-fetch.git)
   - References
     - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-
-- (week#9) _`Basic Vue Routing`_
-
-  - [git repo]
-  - References
     - [Vue Router](https://router.vuejs.org/)
     - [Vue Router Redirect](https://router.vuejs.org/guide/essentials/redirect-and-alias.html#redirect-and-alias)
+    - [vue Router Navigation Guards](https://router.vuejs.org/guide/advanced/navigation-guards.html)
     - [tailwind css for router-link](https://v3.router.vuejs.org/api/#linkactiveclass)
 
 - (week#10) _`Basic State Management`_
