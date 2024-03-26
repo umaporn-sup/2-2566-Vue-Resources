@@ -97,9 +97,9 @@ Color Palettes
     - [vue Router Navigation Guards](https://router.vuejs.org/guide/advanced/navigation-guards.html)
     - [tailwind css for router-link](https://v3.router.vuejs.org/api/#linkactiveclass)
 
-- (week#10) _`Basic State Management`_
+- (week#10) _`Basic State Management and Binary File Handling`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/todo-state-binarypreview.git)
   - References
     - [Pinia](https://pinia.vuejs.org/)
     <hr/>
